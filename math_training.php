@@ -2,7 +2,7 @@
 ////////////////////////////
 //MATH_TRAINING PHP SCRIPT//
 //  MADE BY THEO GILLET   //
-//     FRENCH VERSION     //
+//     ENGLISH VERSION    //
 //       29/12/2021       //
 ////////////////////////////
 
